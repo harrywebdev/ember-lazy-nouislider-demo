@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-clean',
+    modulePrefix: 'ember-lazy-nouislider-demo',
     environment,
     rootURL: '/',
     locationType: 'auto',
